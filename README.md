@@ -1,3 +1,3 @@
 # InfiniteCarousel
 
-A description of this package.
+Reusable "InfiniteCarousel" (SwiftUI) with data binding.
